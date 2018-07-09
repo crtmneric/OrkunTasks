@@ -6,5 +6,6 @@
 * Pom.xml[✓] 
 * Json, Rest api[✓] 
 * BarcoSRestApi Project[✓]
+* SpringBootMetricsGraph[]
 
 
